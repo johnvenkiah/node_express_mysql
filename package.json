@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-express-mysql",
+  "version": "1.0.0",
+  "description": "Node JS Rest CRUD API using Node.js, Express and MySQL",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnvenkiah/node_express_mysql.git"
+  },
+  "keywords": [
+    "rest",
+    "api",
+    "node",
+    "node.js",
+    "express",
+    "react",
+    "mysql"
+  ],
+  "author": "John Venkiah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnvenkiah/node_express_mysql/issues"
+  },
+  "homepage": "https://github.com/johnvenkiah/node_express_mysql#readme"
+}
